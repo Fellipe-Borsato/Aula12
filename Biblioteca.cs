@@ -10,5 +10,7 @@ namespace Aula12
     internal class Biblioteca
     {
        public List<Livro> livros = new();
+
+        livros.Add(l1, l2, l3);
     }
 }
